@@ -12,7 +12,7 @@ public class Ex03 {
 		intB[2] = 10;
 		
 		for(int i=0; i<intA.length; i++) {
-			System.out.println(intA[i]); //20 6 9
+			System.out.println(intA[i]); //20 6 10
 		}
 	}
 
